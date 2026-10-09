@@ -211,7 +211,7 @@ MIT License — feel free to use for learning or as a portfolio foundation.
 ## 👤 Author
 
 **Kishore Siddamannavar**  
-Built for **Rubick.ai SDE I Application** — October 2026
+— October 2026
 
 ---
 
